@@ -1,6 +1,7 @@
-# Git Practice: Article Response 
+# Git Practice: Article Response
 
 ## 1. Link to article:
+
 Tittle: U.S. Prepares to Challenge Google’s Online Ad Dominance
 Link: https://www.nytimes.com/2024/09/09/technology/google-ads-antitrust-trial.html?searchResultPosition=2
 
@@ -15,3 +16,7 @@ According to the article, Google’s ad-selling tools for publishers control 87 
 This is a very interesting topic, as Europe previously passed the Digital Services Act, enforcing privacy regulations. Now, the U.S. is beginning to raise concerns over privacy and a monopolized ad industry. If a privacy enforcement act is passed, could it lead to a series of events resulting in stronger privacy regulations in the United States? Worldwide?
 
 Note: I am testing I did this correctly.
+
+### Comments
+
+Nuzhat: I think this is very interesting and an important topic for us to think about. I hope there is more privacy regulations.
